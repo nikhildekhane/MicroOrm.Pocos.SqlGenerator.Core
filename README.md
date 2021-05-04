@@ -1,5 +1,6 @@
-MicroOrm.Pocos.SqlGenerator
-===========================
+MicroOrm.Pocos.SqlGenerator.Core (For .Net Core)
+================================================
+Original- https://github.com/ElNinjaGaiden/MicroOrm.Pocos.SqlGenerator
 
 If you like your code runs fast, probably you know about Micro ORMs.
 They are simple and one of their main goal is be the fastest way to execute your SQL sentences on your data repositories.
